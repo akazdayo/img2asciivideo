@@ -1,0 +1,10 @@
+[package]
+name = "ascii_video"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ffmpeg-next = "6.1.1"
+image = "0.24.8"
+imageproc = "0.23.0"
+rayon = "1.8.1"
